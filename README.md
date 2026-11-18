@@ -25,6 +25,10 @@
 - **Open code, models, and datasets for reproducibility**: we continuously release runnable offline RL assets so more people can reproduce results and apply them to real-world tasks.
 - **Open algorithm and community co-evolution**: we reproduce existing real-world RL methods, propose new methods, and keep publishing data/benchmarks to grow a collaborative open-source community.
 
+## Projects using this framework
+
+- **[Pick and place parts](https://github.com/Inmetherigersniffstherose/pick-place-parts)** — a standalone project covering reBot B601-DM and Arm 102 setup, two rounds of policy training, and evaluation. The [dataset is on Hugging Face](https://huggingface.co/datasets/RuiZhao88/Pick_Place_Parts).
+
 ## 🚀 News
 
 - **[2026-06-30]** Added a detailed Hugging Face dataset card for the RW-RL Dataset, including visual examples, release statistics, file layout, modalities, and download instructions.
