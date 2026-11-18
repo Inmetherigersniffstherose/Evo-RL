@@ -1,0 +1,3 @@
+[submodule "projects/pick-place-parts"]
+	path = projects/pick-place-parts
+	url = https://github.com/Inmetherigersniffstherose/pick-place-parts.git
