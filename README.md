@@ -27,7 +27,7 @@
 
 ## Projects using this framework
 
-- **[Pick and place parts](https://github.com/Inmetherigersniffstherose/pick-place-parts)** — a standalone project covering reBot B601-DM and Arm 102 setup, two rounds of policy training, and evaluation. The [dataset is on Hugging Face](https://huggingface.co/datasets/RuiZhao88/Pick_Place_Parts).
+- **[EmbodiedAI-VLA-RobotArms-AssortingParticles](https://github.com/Inmetherigersniffstherose/EmbodiedAI-VLA-RobotArms-AssortingParticles)** — a standalone project covering reBot B601-DM and Arm 102 setup, two rounds of policy training, and evaluation. The [dataset is on Hugging Face](https://huggingface.co/datasets/RuiZhao88/Pick_Place_Parts).
 
 ## 🚀 News
 
